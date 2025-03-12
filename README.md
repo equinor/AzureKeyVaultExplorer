@@ -4,9 +4,7 @@
 
 Azure Key Vault Explorer - be productive when working with secrets!
 
-**[Click here to install the latest version (https://srnk.cc/ve)](https://srnk.cc/ve)**
-
-Authors: Eli Zeitlin, Gokhan Ozhan, Anna Zeitlin  
+Original authors: Eli Zeitlin, Gokhan Ozhan, Anna Zeitlin  
 Contact: Submit issues/PRs on this repo
 
 ## Table of Contents
