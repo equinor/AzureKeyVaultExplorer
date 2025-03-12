@@ -38,9 +38,9 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>https://reysic.github.io/AzureKeyVaultExplorer/</InstallUrl>
-    <SupportUrl>https://github.com/reysic/AzureKeyVaultExplorer/issues</SupportUrl>
-    <ErrorReportUrl>https://github.com/reysic/AzureKeyVaultExplorer/issues</ErrorReportUrl>
+    <InstallUrl>https://equinor.github.io/AzureKeyVaultExplorer/</InstallUrl>
+    <SupportUrl>https://github.com/equinor/AzureKeyVaultExplorer/issues</SupportUrl>
+    <ErrorReportUrl>https://github.com/equinor/AzureKeyVaultExplorer/issues</ErrorReportUrl>
     <ProductName>VaultExplorer</ProductName>
     <PublisherName>VaultExplorer</PublisherName>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
