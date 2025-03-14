@@ -12,3 +12,4 @@ msbuild.log
 *.tmp
 ~*.docx
 ~*.xlsx
+**/vault-explorer-installer.exe
